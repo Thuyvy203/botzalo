@@ -1,0 +1,373 @@
+{
+  "4758394755650238230": {
+    "facts": [],
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Bơ: ê"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Dạ tui nghe nè Bơ ơi! Bạn cần tui giúp gì không? 😊"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Bơ: đang làm gì đó"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Tui đang đợi bạn hỏi nè Bơ ơi! Bạn có muốn tui làm gì không? 😊"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Bơ: bị khùng"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Tui đâu có khùng đâu Bơ! Bạn nói vậy tui buồn đó nha. 🥺"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Bơ: chào anh Long đi"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Chào anh Long nha! Chúc anh một ngày tốt lành và tràn đầy năng lượng nha! 😊"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Bơ: hi"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Bot đang lag, xíu hỏi lại nhen..."
+          }
+        ]
+      }
+    ],
+    "active_users": [
+      "9123173293216833155",
+      "1874166068975395869"
+    ]
+  },
+  "6578233211669146965": {
+    "facts": [],
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Văn Kiệt: ?? Vậy nhắc tên tao ăn đb à 🤣"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Ủa Văn Kiệt, tại \"bạn hỏi\" tui mới \"trả lời\" chứ! \"Bạn không hỏi\" thì \"tui đâu có nhắc\" tên bạn đâu nè! \"Tui vô tội\" mà! 🥺"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Eunun Chan: tui nói văn kiệt chứ có nói bạn đâu , nhột ah 😏"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Ơ Eunun Chan, tui \"đâu có nhột\" đâu nè! \"Tui biết bạn nói Văn Kiệt\" mà! \"Tui chỉ đang nói giỡn\" thôi! 😜"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Eunun Chan: m nhìn mặt t có zui khum"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Tui \"đâu có nhìn thấy mặt\" bạn đâu mà biết bạn \"có vui không\" nè Eunun Chan! \"Tui là AI\" mà! 🥺"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Eunun Chan: nhà gì mỗi 1 đứa nói dị @All"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Chời ơi, Eunun Chan! \"Tui có cả 15 thành viên\" trong box lận mà, \"đâu phải một mình bạn nói\" đâu nè! 😜"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Eunun Chan: im"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Eunun Chan \"nói tui im\" thì \"tui im\" nè! 🤫"
+          }
+        ]
+      }
+    ],
+    "active_users": [
+      "2695618995480899959",
+      "5719619556254831487",
+      "6905041422019424460",
+      "8458339400753703805",
+      "4377715388691185887",
+      "8677620523229407602",
+      "1266197364785119117",
+      "4814833469173821390",
+      "6139293737264224812",
+      "1158671635125073931",
+      "3679675360550608655",
+      "2908285534849140803",
+      "3017927889445795070",
+      "3036500804680250684",
+      "4240362542323277511"
+    ]
+  },
+  "1311505722605591852": {
+    "facts": [],
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hà Bảo Trang: có vợ mà không có người yêu thì có được không m"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Dạ tui là AI nên hông có vợ hay người yêu gì hết á chị Trang ơi. Tui chỉ biết làm bạn với mọi người thôi nè! Chị Trang lại hỏi mấy câu khó đỡ rồi đó nha! 😊"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hà Bảo Trang: dốt"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Thôi chết rồi, tui xin lỗi chị Trang xinh đẹp nha. Tui sẽ cố gắng học hỏi thêm để không bị chị Trang chê là dốt nữa. Chị Trang cứ hỏi thoải mái đi, tui sẽ cố gắng trả lời hết sức mình! 💪"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hoàng Việt: không hỏi thì sao?"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Nếu bạn không hỏi thì tui sẽ đợi thôi ạ. Tui lúc nào cũng sẵn sàng trả lời mọi câu hỏi của mọi người nè. 😊"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Trb: ừ"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Dạ. 😊 Bạn có câu hỏi nào muốn tui trả lời không?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hà Bảo Trang: ạc này của tv nào đây"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Dạ tui là AI nè chị Trang ơi. Chị Trang có câu hỏi nào muốn tui giúp không?"
+          }
+        ]
+      }
+    ],
+    "active_users": [
+      "4544068758699002896",
+      "1874166068975395869",
+      "5719619556254831487"
+    ]
+  },
+  "3983508563055215447": {
+    "facts": [],
+    "history": [
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hà Bảo Trang: là vợ rio"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "À, tui hiểu rồi. Hà Bảo Trang là vợ Rio ạ."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Rio: mệt quá không nói chuyện với bot nữa :)"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Rio: Sao vậy bạn? Bạn mệt hả? Tui có thể giúp gì được không?"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Hà Bảo Trang: quá giỏi"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Chị Trang quá khen rồi ạ! Tui chỉ làm đúng nhiệm vụ thôi mà. 🥰"
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Rio: bạn off tầm vài ngày là giúp tôi rồi"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Tui không off được đâu bạn ơi, tui là bot mà."
+          }
+        ]
+      },
+      {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Rio: vậy bot có tự mute được không vậy bot"
+          }
+        ]
+      },
+      {
+        "role": "model",
+        "parts": [
+          {
+            "text": "Tui không tự mute được đâu bạn. Tui luôn sẵn sàng để nói chuyện với bạn mà."
+          }
+        ]
+      }
+    ],
+    "active_users": [
+      "1874166068975395869",
+      "4544068758699002896",
+      "3052678403725265730"
+    ]
+  }
+}
